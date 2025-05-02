@@ -1,5 +1,5 @@
-// Dichiarazione ed inizializzazione delle variabili 
-// Stampa dei numeri da 1 a 100 
-// Se qualche numero è multiplo di tre e di cinque bisogna stampare la stringa "FizzBuzz" al posto del numero 
-// Altrimenti se qualche numero è multiplo di tre bisogna stampare la stringa "Fizz" al posto del numero 
-// Altrimenti se qualche numero è multiplo di cinque bisogna stampare la stringa "Buzz" 
+// DICHIARAZIONE DELLE VARIABILI ED INSERIMENTO DEI VALORI
+// STAMPA DEI NUMERI DA 1 A 100
+// SE QUALCHE NUMERO E' MULTIPLO DI 3 O DI 5 BISOGNA STAMPARE LA STRINGA "FizzBuzz" INVECE DEL NUMERO 
+// ALTRIMENTI SE QUALCHE NUMERO E' MULTIPLO DI 3 BISOGNA STAMPARE LA STRINGA "Fizz"
+// ALTRIMENTI SE QUALCHE NUMERO E' MULTIPLO DI 5 BISOGNA STAMPARE LA STRINGA "Buzz"
